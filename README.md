@@ -1,7 +1,7 @@
 # Memory Game
 
 ## Introduction
-It is a single player tile matching game. It is implemented using React.js on front-end with state mechanism to save Game's state that is which tile/s have been selected by the player, if the game is finished, whether the player has won/lost, etc
+It is a single player tile matching game. It is implemented using React.js on front-end with state mechanism to save Game's state that is which tile/s have been selected by the player, if the game is finished, whether the player has won/lost, etc. 
 
 ## To start your Phoenix server:
 
