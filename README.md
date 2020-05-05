@@ -3,6 +3,9 @@
 ## Introduction
 It is a single player tile matching game. It is implemented using React.js on front-end with state mechanism to save Game's state that is which tile/s have been selected by the player, if the game is finished, whether the player has won/lost, etc. 
 
+This is in-browser game logic and no server side code has been integrated. 
+The extension to this is - 
+
 ## To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
